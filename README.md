@@ -47,6 +47,12 @@ The system was trained using image datasets and deep learning techniques to impr
 
 ## 📂 Dataset Used
 
+This project was developed using face image datasets including CelebA and LFW for training and testing purposes.
+
+A small sample dataset is included in this repository for demonstration purposes only.  
+The complete dataset is not uploaded due to large file size limitations.
+
+Dataset sources:
 - CelebA Dataset
 - LFW (Labeled Faces in the Wild)
 - Custom image datasets
